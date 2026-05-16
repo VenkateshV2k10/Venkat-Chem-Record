@@ -28,3 +28,5 @@ List of things that have yet to be done:
     9. Fix error on closing the "Choose your salt window"
 
     10. Add a stopwatch to motivate maybe?
+
+    11. Add Shortcuts (Ctrl + left/A, Ctrl + right/D) to navigate the UI without a mouse.
