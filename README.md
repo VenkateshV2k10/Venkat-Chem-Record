@@ -16,4 +16,6 @@ List of things that have yet to be done:
     3.Feature to write another salt after completing current one. Idek how I managed to forget that people would need to use this feature... 😭😭😭 This needs to be fixed.
 
     4.Feature to save default settings
+
+    5.*Changing about window and help window from .CTk() to .CTkTopLevel()*
     
