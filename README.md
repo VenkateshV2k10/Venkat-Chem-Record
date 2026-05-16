@@ -19,7 +19,7 @@ List of things that have yet to be done:
 
     5.*Changing about window and help window from .CTk() to .CTkTopLevel()*
 
-    6. Result being split on 3 lines. (ig just two \n to be fixed at the appropriate spot)
+    6. Result being split on 3 lines. (ig just two \n to be fixed at line 603)
 
     7.I would like somebody to comment my code 😅
     
